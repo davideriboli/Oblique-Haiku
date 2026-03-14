@@ -1,27 +1,27 @@
 # Oblique Strategies Haiku Generator
 
-A terminal-style random haiku generator using Brian Eno and Peter Schmidt's
-"Oblique Strategies"
+Un generatore di strategie creative e "haiku" casuali in stile terminale, basato sulle originali [“Oblique Strategies”](https://it.wikipedia.org/wiki/Strategie_Oblique) di Brian Eno e Peter Schmidt.
 
-## Features
-- 163 unique strategic phrases from Oblique Strategies
-- 88 unique strategic phrases from me
-- Random haiku generation with no duplicate phrases per haiku
-- Retro terminal aesthetic with CRT scanline effect
-- Monospace typography (Courier New style)
-- Responsive design
+## Caratteristiche
+- 163 frasi strategiche uniche tratte da “Oblique Strategies”
+- 88 frasi strategiche uniche di mia creazione
+- Generazione casuale di "haiku" senza frasi duplicate
+- Estetica retrò in stile terminale con effetto scanline CRT
+- Tipografia monospazio (stile Courier New)
+- Design liquido
 
-## How to Use
-1. Open the page
-3. Click a button for instant generation (1 or 3 generations)
+## Come si usa
+1. Apri la pagina di [Oblique Haiku](https://davideriboli.github.io/Oblique-Haiku/)
+3. Clicca su un pulsante per la generazione istantanea (1 o 3 generazioni)
 
-## Technologies
+## Tecnologie
 - HTML5
-- CSS3 (with animations and neon effects)
+- CSS3 (con animazioni ed effetti neon)
 - Vanilla JavaScript
 
-## Inspiration
-Based on "Oblique Strategies" by Brian Eno and Peter Schmidt (1975)
+## Ispirazione
+Basato su “Oblique Strategies” di Brian Eno e Peter Schmidt (1975).
 
-## License
-MIT License
+## Licenza
+Licenza MIT.
+
